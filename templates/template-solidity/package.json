@@ -14,9 +14,9 @@
     "ganache-cli": "^6.4.2",
     "openzeppelin-solidity": "^2.2.0",
     "portis": "^1.3.4",
-    "truffle": "^5.0.11",
+    "truffle": "^5.1.34",
     "truffle-hdwallet-provider": "^1.0.6",
-    "web3": "^1.0.0-beta.52"
+    "web3": "^1.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
